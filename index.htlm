@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ROYAL TCHITCHI – Lunettes premium</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="header">
+    <h1>ROYAL TCHITCHI</h1>
+    <p class="slogan">Une couronne pour son altesse, vous.</p>
+    <div class="cta">
+      <a href="boutique.html" class="btn gold">Acheter maintenant</a>
+      <a href="#" class="btn outline">WhatsApp</a>
+    </div>
+  </header>
+  <footer>
+    <p>© ROYAL TCHITCHI – Tous droits réservés</p>
+  </footer>
+</body>
+</html>
